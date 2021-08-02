@@ -4,9 +4,9 @@
 __metadata:
   version: 4
 
-"repl.history@workspace:.":
+"@btwiuse/repl.history@workspace:.":
   version: 0.0.0-use.local
-  resolution: "repl.history@workspace:."
+  resolution: "@btwiuse/repl.history@workspace:."
   bin:
     repl.history: ./bin/repl.history
   languageName: unknown
